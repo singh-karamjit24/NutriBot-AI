@@ -1,0 +1,260 @@
+[
+  {
+    "title": "Oats + banana",
+    "description": "A healthy breakfast of oats with sliced banana and milk.",
+    "ingredients": ["Oats", "Banana", "Milk", "Honey (optional)"],
+    "steps": [
+      "Cook oats in milk for 5 minutes.",
+      "Slice banana and add on top.",
+      "Drizzle honey if desired and serve."
+    ],
+    "image": "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg",
+    "diet": "vegetarian",
+    "tags": ["sweet", "healthy"]
+  },
+  {
+    "title": "Poha",
+    "description": "Flattened rice cooked with vegetables and spices.",
+    "ingredients": ["Poha", "Onion", "Peas", "Turmeric", "Mustard seeds", "Lemon juice", "Coriander"],
+    "steps": [
+      "Rinse poha in water and drain.",
+      "Sauté onions and peas with mustard seeds and turmeric.",
+      "Add poha and mix well.",
+      "Garnish with lemon juice and coriander."
+    ],
+    "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
+    "diet": "vegetarian",
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "title": "Paneer paratha",
+    "description": "Whole wheat flatbread stuffed with spiced paneer filling.",
+    "ingredients": ["Wheat flour", "Paneer", "Spices", "Butter or ghee"],
+    "steps": [
+      "Prepare dough with flour and water.",
+      "Mix crumbled paneer with spices for filling.",
+      "Roll dough, stuff with paneer, and cook on pan with ghee."
+    ],
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "diet": "vegetarian",
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "title": "Brown rice + dal",
+    "description": "A simple and nutritious lunch of brown rice with lentil curry.",
+    "ingredients": ["Brown rice", "Lentils", "Onion", "Tomato", "Spices"],
+    "steps": [
+      "Cook brown rice until soft.",
+      "Prepare dal by cooking lentils with onion, tomato, and spices.",
+      "Serve dal over rice."
+    ],
+    "image": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg",
+    "diet": "vegetarian",
+    "tags": ["savory", "healthy"]
+  },
+  {
+    "title": "Chapati + paneer curry",
+    "description": "Soft whole wheat flatbread served with paneer curry.",
+    "ingredients": ["Wheat flour", "Paneer", "Onion", "Tomato", "Spices"],
+    "steps": [
+      "Prepare chapati dough and cook on pan.",
+      "Cook paneer curry with onions, tomatoes, and spices.",
+      "Serve curry with chapati."
+    ],
+    "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
+    "diet": "vegetarian",
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "title": "Quinoa + veg curry",
+    "description": "Protein-rich quinoa served with mixed vegetable curry.",
+    "ingredients": ["Quinoa", "Carrot", "Beans", "Peas", "Spices"],
+    "steps": [
+      "Cook quinoa until fluffy.",
+      "Prepare vegetable curry with spices.",
+      "Serve curry over quinoa."
+    ],
+    "image": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg",
+    "diet": "vegetarian",
+    "tags": ["spicy", "healthy"]
+  },
+  {
+    "title": "Apple + almonds",
+    "description": "Simple and healthy snack of sliced apple with almonds.",
+    "ingredients": ["Apple", "Almonds"],
+    "steps": [
+      "Slice apple.",
+      "Serve with a handful of almonds."
+    ],
+    "image": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg",
+    "diet": "vegetarian",
+    "tags": ["sweet", "healthy"]
+  },
+  {
+    "title": "Smoothie",
+    "description": "A delicious fruit smoothie to refresh and energize.",
+    "ingredients": ["Banana", "Berries", "Yogurt", "Honey"],
+    "steps": [
+      "Blend banana, berries, yogurt, and honey until smooth.",
+      "Serve chilled."
+    ],
+    "image": "https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg",
+    "diet": "vegetarian",
+    "tags": ["sweet", "healthy"]
+  },
+  {
+    "title": "Roasted chickpeas",
+    "description": "Crunchy and healthy snack made from roasted chickpeas.",
+    "ingredients": ["Chickpeas", "Olive oil", "Spices"],
+    "steps": [
+      "Toss chickpeas with oil and spices.",
+      "Roast in oven at 200°C for 20–25 minutes."
+    ],
+    "image": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg",
+    "diet": "vegetarian",
+    "tags": ["spicy", "savory", "healthy"]
+  },
+  {
+    "title": "Khichdi + salad",
+    "description": "Comforting dish of rice and lentils served with fresh salad.",
+    "ingredients": ["Rice", "Lentils", "Vegetables", "Spices", "Salad ingredients"],
+    "steps": [
+      "Cook rice and lentils together with spices.",
+      "Prepare fresh salad.",
+      "Serve khichdi with salad."
+    ],
+    "image": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg",
+    "diet": "vegetarian",
+    "tags": ["savory", "healthy"]
+  },
+  {
+    "title": "Tofu curry + rice",
+    "description": "Protein-rich tofu curry served with steamed rice.",
+    "ingredients": ["Tofu", "Onion", "Tomato", "Spices", "Rice"],
+    "steps": [
+      "Prepare tofu curry with spices.",
+      "Cook rice separately.",
+      "Serve curry over rice."
+    ],
+    "image": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg",
+    "diet": "vegetarian",
+    "tags": ["spicy", "healthy"]
+  },
+  {
+    "title": "Moong dal cheela",
+    "description": "Savory pancakes made from moong dal, rich in protein.",
+    "ingredients": ["Moong dal", "Spices", "Oil"],
+    "steps": [
+      "Grind soaked moong dal into a batter.",
+      "Cook on pan like pancake with oil.",
+      "Serve hot."
+    ],
+    "image": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg",
+    "diet": "vegetarian",
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "title": "Boiled eggs + toast",
+    "description": "A simple protein-rich breakfast with boiled eggs and toasted bread.",
+    "ingredients": ["Eggs", "Bread", "Salt", "Pepper"],
+    "steps": [
+      "Boil eggs for 7–10 minutes.",
+      "Toast bread slices.",
+      "Serve eggs with toast, sprinkle salt and pepper."
+    ],
+    "image": "https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["savory", "healthy"]
+  },
+  {
+    "title": "Chicken sandwich",
+    "description": "A quick sandwich with chicken filling, veggies, and spices.",
+    "ingredients": ["Chicken breast", "Bread", "Mayonnaise", "Lettuce", "Tomato"],
+    "steps": [
+      "Cook chicken and shred it.",
+      "Mix with mayonnaise and seasonings.",
+      "Place filling between bread slices with lettuce and tomato."
+    ],
+    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["savory"]
+  },
+  {
+    "title": "Grilled chicken + rice",
+    "description": "Nutritious grilled chicken served with steamed rice.",
+    "ingredients": ["Chicken breast", "Rice", "Olive oil", "Spices"],
+    "steps": [
+      "Marinate chicken with spices and grill until cooked.",
+      "Cook rice until soft.",
+      "Serve grilled chicken with rice."
+    ],
+    "image": "https://images.pexels.com/photos/4106483/pexels-photo-4106483.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["savory", "healthy"]
+  },
+  {
+    "title": "Fish curry + chapati",
+    "description": "Traditional fish curry served with soft chapati.",
+    "ingredients": ["Fish", "Onion", "Tomato", "Spices", "Chapati"],
+    "steps": [
+      "Cook fish curry with onions, tomatoes, and spices.",
+      "Prepare chapati from wheat flour.",
+      "Serve hot fish curry with chapati."
+    ],
+    "image": "https://images.pexels.com/photos/1618918/pexels-photo-1618918.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "title": "Egg curry + quinoa",
+    "description": "Spicy boiled egg curry served with quinoa.",
+    "ingredients": ["Eggs", "Onion", "Tomato", "Quinoa", "Spices"],
+    "steps": [
+      "Boil eggs and prepare curry with onions, tomatoes, and spices.",
+      "Cook quinoa until fluffy.",
+      "Serve egg curry over quinoa."
+    ],
+    "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "title": "Grilled fish + salad",
+    "description": "Light meal with grilled fish and fresh vegetable salad.",
+    "ingredients": ["Fish", "Olive oil", "Lemon", "Spices", "Salad vegetables"],
+    "steps": [
+      "Marinate fish with lemon and spices, then grill.",
+      "Prepare fresh salad with vegetables.",
+      "Serve grilled fish with salad."
+    ],
+    "image": "https://images.pexels.com/photos/3296270/pexels-photo-3296270.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["savory", "healthy"]
+  },
+  {
+    "title": "Chicken curry + rice",
+    "description": "Spicy chicken curry paired with steamed rice.",
+    "ingredients": ["Chicken", "Onion", "Tomato", "Rice", "Spices"],
+    "steps": [
+      "Cook chicken curry with onion, tomato, and spices.",
+      "Prepare rice separately.",
+      "Serve curry with rice."
+    ],
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["spicy", "savory"]
+  },
+  {
+    "title": "Omelette + veggies",
+    "description": "Fluffy omelette served with sautéed vegetables.",
+    "ingredients": ["Eggs", "Onion", "Tomato", "Capsicum", "Spices"],
+    "steps": [
+      "Whisk eggs with spices and cook as omelette.",
+      "Sauté vegetables with little oil.",
+      "Serve omelette with veggies."
+    ],
+    "image": "https://images.pexels.com/photos/3654597/pexels-photo-3654597.jpeg",
+    "diet": "non-vegetarian",
+    "tags": ["savory", "healthy"]
+  }
+]

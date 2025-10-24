@@ -1,0 +1,93 @@
+{
+    "diabetes": {
+        "definition": "Diabetes is a chronic condition where the body cannot properly process glucose, leading to high blood sugar levels. It can cause complications if unmanaged.",
+        "symptoms": ["Increased thirst", "Frequent urination", "Fatigue", "Blurred vision"],
+        "treatment": ["Insulin therapy", "Oral medications", "Regular exercise", "Diet management"],
+        "prevention": ["Healthy diet", "Regular physical activity", "Maintain healthy weight", "Regular check-ups"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Diabetes_Symptoms.jpg"
+    },
+    "asthma": {
+        "definition": "Asthma is a respiratory condition where the airways become inflamed and narrow, causing difficulty in breathing. It often triggers wheezing, coughing, and chest tightness.",
+        "symptoms": ["Shortness of breath", "Chest tightness", "Coughing", "Wheezing"],
+        "treatment": ["Inhalers", "Medications", "Avoid triggers", "Breathing exercises"],
+        "prevention": ["Avoid allergens", "Regular exercise", "Follow asthma action plan", "Monitor air quality"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Asthma_patient.jpg"
+    },
+    "hypertension": {
+        "definition": "Hypertension, or high blood pressure, is when the force of blood against artery walls is too high. Long-term hypertension can damage the heart and arteries.",
+        "symptoms": ["Headaches", "Shortness of breath", "Nosebleeds", "Dizziness"],
+        "treatment": ["Lifestyle modification", "Antihypertensive medications", "Reduce salt intake", "Regular exercise"],
+        "prevention": ["Healthy diet", "Regular exercise", "Avoid smoking", "Maintain healthy weight"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blood_pressure_monitoring.jpg"
+    },
+    "covid-19": {
+        "definition": "COVID-19 is an infectious disease caused by the SARS-CoV-2 virus. It affects the respiratory system and can range from mild symptoms to severe illness.",
+        "symptoms": ["Fever", "Cough", "Shortness of breath", "Loss of taste or smell"],
+        "treatment": ["Rest", "Hydration", "Oxygen therapy if needed", "Medications for symptoms"],
+        "prevention": ["Vaccination", "Wear masks", "Social distancing", "Hand hygiene"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Coronavirus_Diagram.png"
+    },
+    "malaria": {
+        "definition": "Malaria is a mosquito-borne infectious disease caused by Plasmodium parasites. It can lead to fever, chills, and anemia.",
+        "symptoms": ["Fever", "Chills", "Headache", "Nausea"],
+        "treatment": ["Antimalarial medications", "Supportive care", "Hydration", "Rest"],
+        "prevention": ["Mosquito nets", "Insect repellents", "Eliminate stagnant water", "Prophylactic medications"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Malaria_symptoms.png"
+    },
+    "heart attack": {
+        "definition": "A heart attack occurs when blood flow to a part of the heart is blocked, causing damage to heart muscles. Immediate medical attention is critical.",
+        "symptoms": ["Chest pain", "Shortness of breath", "Sweating", "Nausea"],
+        "treatment": ["Emergency medical care", "Medications", "Surgery (if required)", "Lifestyle changes"],
+        "prevention": ["Healthy diet", "Regular exercise", "Avoid smoking", "Manage stress"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Heart_attack_illustration.png"
+    },
+    "stroke": {
+        "definition": "A stroke happens when blood supply to the brain is interrupted, causing brain cells to die. It can lead to long-term disability or death if untreated.",
+        "symptoms": ["Sudden numbness", "Confusion", "Difficulty speaking", "Loss of balance"],
+        "treatment": ["Emergency care", "Medications", "Rehabilitation", "Physical therapy"],
+        "prevention": ["Manage blood pressure", "Exercise regularly", "Healthy diet", "Avoid smoking"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Stroke_types.png"
+    },
+    "cancer": {
+        "definition": "Cancer is a disease in which abnormal cells divide uncontrollably and can invade nearby tissues. Early detection increases treatment success.",
+        "symptoms": ["Unexplained weight loss", "Fatigue", "Lumps or swelling", "Changes in skin or bowel habits"],
+        "treatment": ["Surgery", "Radiation therapy", "Chemotherapy", "Targeted therapy"],
+        "prevention": ["Avoid tobacco", "Healthy diet", "Regular screenings", "Exercise regularly"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cancer_cells_under_microscope.jpg"
+    },
+    "tuberculosis": {
+        "definition": "Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis, primarily affecting the lungs. It spreads through the air.",
+        "symptoms": ["Persistent cough", "Fever", "Night sweats", "Weight loss"],
+        "treatment": ["Antibiotics", "Supportive care", "Complete treatment course", "Nutrition support"],
+        "prevention": ["Vaccination (BCG)", "Avoid close contact with TB patients", "Good ventilation", "Healthy lifestyle"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mycobacterium_tuberculosis.jpg"
+    },
+    "arthritis": {
+        "definition": "Arthritis is inflammation of the joints causing pain, stiffness, and reduced mobility. It can affect one or multiple joints.",
+        "symptoms": ["Joint pain", "Swelling", "Stiffness", "Reduced range of motion"],
+        "treatment": ["Medications", "Physical therapy", "Joint protection", "Surgery in severe cases"],
+        "prevention": ["Maintain healthy weight", "Exercise regularly", "Avoid joint injuries", "Healthy diet"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Osteoarthritis_knee_x-ray.jpg"
+    },
+    "alzheimer": {
+        "definition": "Alzheimer's disease is a progressive neurological disorder that causes memory loss, cognitive decline, and personality changes.",
+        "symptoms": ["Memory loss", "Confusion", "Difficulty with tasks", "Mood changes"],
+        "treatment": ["Medications", "Cognitive therapy", "Supportive care", "Healthy lifestyle"],
+        "prevention": ["Mental exercise", "Healthy diet", "Regular physical activity", "Social engagement"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Alzheimer_brain.jpg"
+    },
+    "obesity": {
+        "definition": "Obesity is excessive body fat accumulation that increases risk of health problems like heart disease, diabetes, and hypertension.",
+        "symptoms": ["Excess body fat", "Breathlessness", "Fatigue", "Sleep apnea"],
+        "treatment": ["Dietary changes", "Exercise", "Medications", "Bariatric surgery in severe cases"],
+        "prevention": ["Balanced diet", "Regular physical activity", "Avoid sedentary lifestyle", "Monitor weight"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Obesity_chart.png"
+    },
+    "migraine": {
+        "definition": "Migraine is a neurological condition that causes intense, throbbing headaches often accompanied by nausea, vomiting, and sensitivity to light.",
+        "symptoms": ["Severe headache", "Nausea", "Sensitivity to light", "Visual disturbances"],
+        "treatment": ["Pain relievers", "Triptans", "Avoid triggers", "Lifestyle adjustments"],
+        "prevention": ["Identify triggers", "Regular sleep", "Stress management", "Healthy diet"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Migraine_headache_diagram.png"
+    }
+}
