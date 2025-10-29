@@ -54,8 +54,12 @@
 
 ## 📁 Project Structure
 NutriMed-AI/
-│
+
+
 ├── diet_app.py # Main Streamlit application
+
 ├── recipes.json # Recipe dataset
+
 ├── medical.json # Disease information dataset
+
 ├── images/ # Icons and brand logos (Zomato, Swiggy, Google)
